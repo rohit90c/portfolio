@@ -11,7 +11,7 @@ body {
 }
 
 header {
-    background-color: #ADDFFF;
+    background-color: orange;
     height: 100vh;
 }
 
@@ -102,7 +102,7 @@ header {
 /* About Me */
 
 .about-me {
-    background-color: #90EE90;
+    background-color: orange;
     padding: 6rem 0;
 }
 
@@ -171,7 +171,7 @@ header {
     position: relative;
     height: 10px;
     width: 550px;
-    background: #f0f0e6;
+    background: orange;
     border-radius: 10px;
     transform: scaleX(0);
     transform-origin: left;
