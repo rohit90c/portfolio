@@ -245,11 +245,11 @@ header {
 }
 
 .progress-line .css::after {
-    content: "50%";
+    content: "40%";
 }
 
 .progress-line .bootstrap::after {
-    content: "30%";
+    content: "20%";
 }
 
 .progress-line .javascript::after {
@@ -257,7 +257,7 @@ header {
 }
 
 .progress-line .react::after {
-    content: "10%";
+    content: "5%";
 }
 
 .navbar .solid {
