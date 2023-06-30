@@ -253,7 +253,7 @@ header {
 }
 
 .progress-line .javascript::after {
-    content: "30%";
+    content: "20%";
 }
 
 .progress-line .react::after {
